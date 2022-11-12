@@ -1,0 +1,120 @@
+<Tipo>
+    <Operacion= INVERSO>
+        <Operacion= DIVISION>
+            <Operacion=SUMA>
+                <Numero>20?</Numero>
+                <Numero>5!</Numero>
+            </Operacion>
+            <Numero>500!</Numero>     
+        </Operacion>
+    </Operacion>
+    <Operacion=INVERSO>
+        <Operacion=MULTIPLICACION>
+            <Operacion=SENO>
+                <Numero>90</Numero>
+            </Operacion>
+            <Operacion=COSENO>
+                <Numero>90</Numero>
+            </Operacion>
+        </Operacion>
+    </Operacion>
+    <Operacion=SUMA>
+        <Operacion=TANGENTE>
+            <Numero>30</Numero>
+        </Operacion>
+        <Operacion=MULTIPLICACION>
+            <Operacion=SENO>
+                <Numero>90</Numero>
+            </Operacion>
+            <Operacion=COSENO>
+                <Numero>90</Numero>
+            </Operacion>
+        </Operacion>
+    </Operacion>
+    <Operacion=RESTA>
+        <Operacion=MULTIPLICACION>
+            <Numero>2</Numero>
+            <Operacion=SUMA>
+                <Numero>2</Numero>
+                <Numero>3</Numero>
+            </Operacion>
+        </Operacion>
+        <Numero>6</Numero>
+    </Operacion>
+    <Operacion=RESTA>
+        <Operacion=POTENCIA>
+            <Numero>6</Numero>
+            <Numero>5</Numero>
+        </Operacion>
+        <Operacion=RAIZ>
+            <Numero>2</Numero>
+            <Numero>64</Numero>
+        </Operacion>
+    </Operacion>
+    <Operacion= POTENCIA>
+        <Operacion=COSENO>
+            <Numero>3</Numero>
+        </Operacion>
+        <Numero>3</Numero>
+    </Operacion>
+    <Operacion= INVERSO>
+        <Operacion= DIVISION>
+            <Numero>500</Numero>
+            <Operacion=SUMA>
+                <Numero>20</Numero>
+                <Numero>5</Numero>
+            </Operacion>
+        </Operacion>
+    </Operacion>
+    <Operacion= SUMA>
+        <Operacion=MULTIPLICACION>
+            <Numero>20</Numero>
+            <Numero>4</Numero>
+        </Operacion>
+        <Operacion= DIVISION>
+            <Numero>500</Numero>
+            <Numero>25</Numero>
+        </Operacion>
+    </Operacion>
+    <Operacion= SUMA>
+        <Operacion= MULTIPLICACION>
+            <Numero>4</Numero>
+            <Numero>4</Numero>
+        </Operacion>
+        <Numero>4</Numero>
+    </Operacion>
+    <Operacion= SUMA>
+        <Numero>4</Numero>
+        <Operacion= MULTIPLICACION>
+            <Numero>4</Numero>
+            <Numero>4</Numero>
+        </Operacion>
+    </Operacion>
+    <Operacion= SUMA>
+        <Numero>4</Numero>
+        <Numero>3</Numero>
+    </Operacion>
+    <Operacion= TANGENTE>
+        <Operacion= SUMA>
+            <Numero>3</Numero>
+            <Operacion= RESTA>
+                <Numero>4</Numero>
+                <Numero>3</Numero>
+            </Operacion>
+        </Operacion>
+    </Operacion>   
+</Tipo>
+<Texto>
+    "Aqui puede venir cualquier cosa que se coloque :3 ? ! # $"
+</Texto>
+
+<Funcion=Escribir>
+    <Titulo>Operaciones</Titulo ?>
+    <Descripcion>[TEXTO]</Descripcion>
+    <Contenido>[TIPO]</Contenido>
+</Funcion>
+<Estilo> 
+    <Titulo Color=GRIS ?Tamanio=20/> 
+    <Descripcion Color=NARANJA Tamanio=15/> 
+    <Contenido? Color=VERDE Tamanio=15/> 
+</Estilo> 
